@@ -1,0 +1,22 @@
+{
+  "name": "@mp3e/useless-js",
+  "version": "1.0.1",
+  "description": "a framework that is just useless",
+  "main": "script.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeslol234/useless-js.git"
+  },
+  "keywords": [
+    "useless"
+  ],
+  "author": "mp3e",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/yeslol234/useless-js/issues"
+  },
+  "homepage": "https://github.com/yeslol234/useless-js#readme"
+}
