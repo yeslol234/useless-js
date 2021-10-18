@@ -9,7 +9,7 @@ console.log(useless.RandomInt(0,10))
 its useless lol
 ## Download
 Enter the command in ur terminal lol
-```console
+``shell
 npm install @mp3e/useless-js
 ```
 
