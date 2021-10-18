@@ -7,6 +7,11 @@ console.log(useless.RandomInt(0,10))
 console.log(useless.RandomInt(0,10))
 ```
 its useless lol
+## Download
+Enter the command in ur terminal lol
+```console
+npm install @mp3e/useless-js
+```
 
 # `RandomInt()`
 ##### Generates Numbers from `a` to `b`
